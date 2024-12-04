@@ -5,7 +5,7 @@ Action:
     children:
       - Action:
           location: ${base-uri}index.html
-          text: A cubicle for a non-human software engineer
+          text: A cubicle for a non-human software engineer
           content:
             Interpolator:
               source:
